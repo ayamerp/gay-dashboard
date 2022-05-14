@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\pos is hard\pos is hard\bin\Debug\pos is hard.exe.config
+C:\Users\gabri\source\repos\pos is hard\pos is hard\bin\Debug\pos is hard.exe
+C:\Users\gabri\source\repos\pos is hard\pos is hard\bin\Debug\pos is hard.pdb
+C:\Users\gabri\source\repos\pos is hard\pos is hard\obj\Debug\pos is hard.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\pos is hard\pos is hard\obj\Debug\pos_is_hard.Form1.resources
+C:\Users\gabri\source\repos\pos is hard\pos is hard\obj\Debug\pos_is_hard.Properties.Resources.resources
+C:\Users\gabri\source\repos\pos is hard\pos is hard\obj\Debug\pos is hard.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\pos is hard\pos is hard\obj\Debug\pos is hard.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\pos is hard\pos is hard\obj\Debug\pos is hard.exe
+C:\Users\gabri\source\repos\pos is hard\pos is hard\obj\Debug\pos is hard.pdb

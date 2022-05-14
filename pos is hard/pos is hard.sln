@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pos is hard", "pos is hard\pos is hard.csproj", "{8A19D04D-4602-48B4-97A3-53DAE205A7B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A19D04D-4602-48B4-97A3-53DAE205A7B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A19D04D-4602-48B4-97A3-53DAE205A7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A19D04D-4602-48B4-97A3-53DAE205A7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A19D04D-4602-48B4-97A3-53DAE205A7B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {006ED178-D694-4757-A9C6-5F437629371C}
+	EndGlobalSection
+EndGlobal
