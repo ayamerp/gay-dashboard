@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\CHARTdASHBOARD\CHARTdASHBOARD\bin\Debug\CHARTdASHBOARD.exe.config
+C:\Users\USER\source\repos\CHARTdASHBOARD\CHARTdASHBOARD\bin\Debug\CHARTdASHBOARD.exe
+C:\Users\USER\source\repos\CHARTdASHBOARD\CHARTdASHBOARD\bin\Debug\CHARTdASHBOARD.pdb
+C:\Users\USER\source\repos\CHARTdASHBOARD\CHARTdASHBOARD\obj\Debug\CHARTdASHBOARD.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CHARTdASHBOARD\CHARTdASHBOARD\obj\Debug\CHARTdASHBOARD.Form1.resources
+C:\Users\USER\source\repos\CHARTdASHBOARD\CHARTdASHBOARD\obj\Debug\CHARTdASHBOARD.Properties.Resources.resources
+C:\Users\USER\source\repos\CHARTdASHBOARD\CHARTdASHBOARD\obj\Debug\CHARTdASHBOARD.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CHARTdASHBOARD\CHARTdASHBOARD\obj\Debug\CHARTdASHBOARD.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CHARTdASHBOARD\CHARTdASHBOARD\obj\Debug\CHARTdASHBOARD.exe
+C:\Users\USER\source\repos\CHARTdASHBOARD\CHARTdASHBOARD\obj\Debug\CHARTdASHBOARD.pdb
