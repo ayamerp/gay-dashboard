@@ -1,0 +1,42 @@
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.Cache
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\CircularProgressBar.dll
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\WinFormAnimation.dll
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\CircularProgressBar.xml
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\WinFormAnimation.xml
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.frmAnalytics.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.frmCalender.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.frmDashboard.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.frmContactUs.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.frmSettings.resources
+C:\Users\Josh Garcia\Desktop\Dashboard\FLAT UI\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Users\Josh Garcia\Desktop\Dashboard\FLAT UI\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\Josh Garcia\Desktop\Dashboard\FLAT UI\Dashboard\obj\Debug\Dashboard.pdb
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\bin\Debug\Dashboard.exe.config
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\bin\Debug\Dashboard.exe
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\bin\Debug\Dashboard.pdb
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\bin\Debug\CircularProgressBar.dll
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\bin\Debug\WinFormAnimation.dll
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\bin\Debug\CircularProgressBar.xml
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\bin\Debug\WinFormAnimation.xml
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.csproj.SuggestedBindingRedirects.cache
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.Form1.resources
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.frmAnalytics.resources
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.frmCalender.resources
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.frmContactUs.resources
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.frmDashboard.resources
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.frmSettings.resources
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.csproj.CopyComplete
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.exe
+D:\github repos\dashboard\gay-dashboard\FLAT UI\trial design\FLAT UI\Dashboard\obj\Debug\Dashboard.pdb
