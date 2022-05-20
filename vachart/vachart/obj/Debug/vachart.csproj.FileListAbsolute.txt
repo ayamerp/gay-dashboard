@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\vachart\vachart\bin\Debug\vachart.exe.config
+C:\Users\gabri\source\repos\vachart\vachart\bin\Debug\vachart.exe
+C:\Users\gabri\source\repos\vachart\vachart\bin\Debug\vachart.pdb
+C:\Users\gabri\source\repos\vachart\vachart\obj\Debug\vachart.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\vachart\vachart\obj\Debug\vachart.Form1.resources
+C:\Users\gabri\source\repos\vachart\vachart\obj\Debug\vachart.Properties.Resources.resources
+C:\Users\gabri\source\repos\vachart\vachart\obj\Debug\vachart.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\vachart\vachart\obj\Debug\vachart.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\vachart\vachart\obj\Debug\vachart.exe
+C:\Users\gabri\source\repos\vachart\vachart\obj\Debug\vachart.pdb
